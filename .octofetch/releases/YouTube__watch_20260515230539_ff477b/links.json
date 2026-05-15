@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6684",
+  "folder": "YouTube__watch_20260515230539_ff477b",
+  "base_name": "Young_Thug_Travis_Scott_-_Pick_Up_the_Phone_(Explicit)_ft_Quavo_mZDinQ92OZQ_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/hmnmssh0301/Cloud-Downloads-1/releases/tag/co-releases-v1-6684",
+  "files": [
+    {
+      "name": "Young_Thug_Travis_Scott_-_Pick_Up_the_Phone_.Explicit._ft_Quavo_mZDinQ92OZQ_1080p.mp4",
+      "url": "https://github.com/hmnmssh0301/Cloud-Downloads-1/releases/download/co-releases-v1-6684/Young_Thug_Travis_Scott_-_Pick_Up_the_Phone_.Explicit._ft_Quavo_mZDinQ92OZQ_1080p.mp4",
+      "api_url": "https://api.github.com/repos/hmnmssh0301/Cloud-Downloads-1/releases/assets/421389280",
+      "id": 421389280,
+      "size": 52679756,
+      "download_count": 0
+    }
+  ]
+}
